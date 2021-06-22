@@ -1,0 +1,5 @@
+Variables: Una variable es un valor que no es fijo y puede cambiar.
+Strings: Un string es una cadena de caracteres.
+Funciones: Una funcion es un pedazo de codigo que se utiliza para resumir y no repetir el mismo.
+Declaracion if: El if se utiliza como estructura de decision.
+Valores booleanos: Un valor booleano tiene solamente 2 estados (true y false, 1 y 0, T y F...).
