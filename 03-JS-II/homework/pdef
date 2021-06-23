@@ -1,0 +1,4 @@
+For: El for se utiliza para crear un bucle que se repita hasta que suceda un evento conocido.
+&&: El and se utiliza cuando se necesita que se cumplan mas de una condicion simultaneamente.
+||: El or se utiliza cuando tengo mas de una condicion y necesito q se cumpla al menos una.
+!: La negacion se utiliza si quiero que el resultado se invierta. Ej si algo es true y lo niego se convierte en false.
