@@ -1,0 +1,5 @@
+Objetos: Un objeto es una matriz pero, en vez de estar identificada cada posicion por medio de numeros, se puede identificar como nosotros querramos
+Propiedades: Una propiedad es el nombre que le damos a cada una de las posiciones del objeto.
+Metodos: Un metodo es lo mismo que una funcion pero solo si esta adentro de un objeto.
+Bucle for...in: Un bucle for in es un for pero que en vez de por numeros recorre el objeto por sus propiedades.
+Notacion de puntos vs corchetes: La notacion por puntos (objeto.propiedad) tiene la intencion de hacer mas facil la escritura del codigo ya que la de corchetes (objeto[propiedad]), es muy engorrosa para escribir.
