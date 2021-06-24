@@ -1,0 +1,28 @@
+body{
+    background-image: url(http://i.stack.imgur.com/jGlzr.png);
+}
+h1{
+    margin: 0 auto;
+    color: forestgreen;
+}
+img{
+    margin: 0 auto;
+    width: 400px;
+}
+.thirdDiv{
+    margin: 0 auto;
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    background-color: grey;
+    padding: 50px;
+    border: red 10px dotted;
+}
+#spanId{
+    margin: 0 auto;
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    margin: 0 auto;
+}
