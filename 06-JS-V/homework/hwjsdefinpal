@@ -1,0 +1,2 @@
+Prototype: Llamamos Prototype a lo que esta detras de un objeto en js lo que seria "El padre" de ese elemento.
+Constructors: Un constructor es una funcion que, a partir de los argumentos que le mandamos, construye un objeto ya predeterminado.
